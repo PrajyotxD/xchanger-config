@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "title": "Maintenance",
   "message": "Service is temporarily unavailable. Try again later."
 }
